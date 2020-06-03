@@ -14,8 +14,9 @@
                 "bin"
             ],
             "args": [
-                "${workspaceFolder}/scheduler/samples/sample_1.jobs.txt",
-                "Random"
+                "${workspaceFolder}/scheduler/samples/sample_3.jobs.txt",
+                "SJF",
+                "false"
             ], 
             "stopOnEntry": true
         }
